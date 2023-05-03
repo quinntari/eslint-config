@@ -1,6 +1,6 @@
 {
 	"name": "@dumpuswumpus/eslint-config",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "My personal eslint config for javascript/typescript node.js projects",
 	"scripts": {
 		"lint": "eslint . --ext .ts,.js,.json"
@@ -18,7 +18,9 @@
 	"engines": {
 		"node": ">=16"
 	},
-	"files": ["typescript.json"],
+	"files": [
+		"typescript.json"
+	],
 	"dependencies": {
 		"@typescript-eslint/eslint-plugin": "^5.59.2",
 		"@typescript-eslint/parser": "^5.59.2",
