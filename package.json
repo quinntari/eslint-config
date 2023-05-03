@@ -1,0 +1,29 @@
+{
+	"name": "@dumpuswumps/eslint-config",
+	"version": "1.0.0",
+	"description": "My personal eslint config for javascript/typescript node.js projects",
+	"scripts": {
+		"lint": "eslint . --ext .ts,.js,.json"
+	},
+	"author": "dumpuswumpus",
+	"license": "MIT",
+	"publishConfig": {
+		"access": "public"
+	},
+	"private": false,
+	"engines": {
+		"node": ">=16"
+	},
+	"files": ["typescript.json"],
+	"dependencies": {
+		"@typescript-eslint/eslint-plugin": "^5.59.2",
+		"@typescript-eslint/parser": "^5.59.2",
+		"eslint": "^8.39.0",
+		"eslint-plugin-deprecation": "^1.4.1",
+		"eslint-plugin-import": "^2.27.5",
+		"eslint-plugin-jsonc": "^2.7.0"
+	},
+	"devDependencies": {
+		"typescript": "^5.0.4"
+	}
+}
