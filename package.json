@@ -1,6 +1,6 @@
 {
 	"name": "@dumpuswumpus/eslint-config",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "My personal eslint config for javascript/typescript node.js projects",
 	"scripts": {
 		"lint": "eslint . --ext .ts,.js,.json"

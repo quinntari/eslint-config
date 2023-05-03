@@ -229,16 +229,14 @@
 			"error",
 			{
 				"groups": [
-					[
-						"external",
-						"builtin",
-						"internal",
-						"parent",
-						"sibling",
-						"index",
-						"object",
-						"type"
-					]
+					"external",
+					"builtin",
+					"internal",
+					"parent",
+					"sibling",
+					"index",
+					"object",
+					"type"
 				]
 			}
 		],
