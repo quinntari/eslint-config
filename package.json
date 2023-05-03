@@ -1,5 +1,5 @@
 {
-	"name": "@dumpuswumps/eslint-config",
+	"name": "@dumpuswumpus/eslint-config",
 	"version": "1.0.0",
 	"description": "My personal eslint config for javascript/typescript node.js projects",
 	"scripts": {
