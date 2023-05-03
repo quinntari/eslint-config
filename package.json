@@ -7,6 +7,10 @@
 	},
 	"author": "dumpuswumpus",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/DumpusWumpus/eslint-config.git"
+	},
 	"publishConfig": {
 		"access": "public"
 	},
