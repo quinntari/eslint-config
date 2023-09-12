@@ -1,15 +1,15 @@
 {
-	"name": "@dumpuswumpus/eslint-config",
-	"version": "1.0.2",
+	"name": "@riveyy-codes/eslint-config",
+	"version": "1.0.3",
 	"description": "My personal eslint config for javascript/typescript node.js projects",
 	"scripts": {
 		"lint": "eslint . --ext .ts,.js,.json"
 	},
-	"author": "dumpuswumpus",
+	"author": "riveyy_ on discord",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/DumpusWumpus/eslint-config.git"
+		"url": "git+https://github.com/riveyy-codes/eslint-config.git"
 	},
 	"publishConfig": {
 		"access": "public"
